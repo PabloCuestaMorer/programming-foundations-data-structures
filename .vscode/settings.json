@@ -16,7 +16,7 @@
   "explorer.openEditors.visible": 0,
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 16,
   "workbench.colorTheme": "Default Dark Modern",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true
